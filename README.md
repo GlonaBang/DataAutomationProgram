@@ -1,0 +1,1 @@
+A program that reads data (e.g., phone numbers) and categorizes them according to specified criteria. Reads a file containing a total of 1,000,000 phone numbers with their corresponding dates and sorts them by time, area code, and more. Also returns statistics including call frequency, redials, etc.
